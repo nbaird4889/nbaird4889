@@ -20,6 +20,6 @@
 - [LINKEDIN](https://www.linkedin.com/in/nicole-k-baird/)
 
 ## Checkout my portfolio... 
-- [PORTFOLIO](https://nicole-baird-portfolio.netlify.app/)
+- [PORTFOLIO](https://www.nicolebaird.com/about-me/)
 
 
