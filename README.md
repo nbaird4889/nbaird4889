@@ -14,7 +14,7 @@
 - I have a 90 pound rescue pup named Kirby (GO DAWGS)
 
 ## Skills...
-[![skills.png](https://i.postimg.cc/xdJZdrMD/skills.png)](https://postimg.cc/t1bkrMB2)
+![skills-icons](https://user-images.githubusercontent.com/94554882/157689531-9c2d11ec-c060-4721-a82e-7e4dd904c696.jpg)
 
 ## Contact me...
 - [LINKEDIN](https://www.linkedin.com/in/nicole-k-baird/)
