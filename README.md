@@ -2,7 +2,7 @@
 
 ### I’m interested in...
 - Improving my frontend and backend development skills
-- Diving deeper into React
+- Diving deeper into React and Gatsby
 - Continuing to improve my CSS skills
 
 ### Fun fact...
