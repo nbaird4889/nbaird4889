@@ -5,10 +5,6 @@
 - Diving deeper into React
 - Continuing to improve my CSS skills
 
-### I’m currently...
-- Learning React
-- Learning how to utilize the full MERN stack
-
 ### Fun fact...
 - I worked in Account and Project Management for almost 10 years before deciding to make a career change.
 - I have a 90 pound rescue pup named Kirby (GO DAWGS)
